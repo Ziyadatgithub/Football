@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    color:white;
+    font-family:'Bebas Neue', cursive;
+}
+.title{
+    background-color: #06d6a0;
+    padding: 20px 30px;
+}
+p{
+    color: white;
+    font-family:'Bebas Neue', cursive;
+    font-size: 25px;
+    text-align:center;
+}
+h2{
+    text-align: center;
+    color:#06d6a0;
+    font-family:'Oswald', sans-serif;
+    margin-top:50px;
+    font-size: 30px;
+}
+.info{
+    color:#84dcc6;
+    font-size:18px;
+    margin-top:20px;
+    width:40%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.para{
+    color:#84dcc6;
+    font-size: 18px;
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+.vids{
+    width:55%;
+    margin:0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.ron{
+    color: #84dcc6;
+}
+ul{
+    text-align: center;
+    margin-top: 30px;
+    color: #84dcc6;
+    font-family:'Bebas Neue', cursive;
+    font-size: 20px;
+}
+.note{
+    color: #84dcc6;
+    padding: 20px 0px;
+}
+.footer{
+    margin-top:85px;
+    background-color:#06d6a0;
+    padding: 40px 50px;
+}
